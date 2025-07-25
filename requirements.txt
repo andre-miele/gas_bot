@@ -1,0 +1,4 @@
+aiofiles
+aiohttp
+discord.py
+jishaku
